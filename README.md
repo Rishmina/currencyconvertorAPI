@@ -33,7 +33,7 @@ This project is a **Spring Boot** application that integrates with the **Exchang
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/Ananya-S2580/CurrencyConversion-API-Integration.git 
+git clone https://github.com/Rishmina/CurrencyConversion-API-Integration.git 
 cd CurrencyConversion-API-Integration
 ```
 
